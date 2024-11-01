@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.slidetitle {
+	position: absolute;
+	top: 50px;
+	padding: 20px;
+	font-size: 30px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background-color:#000000;
+	float:left;
+	color:#fff;
+	opacity:0.7;
+	max-width: 70%;
+}
+.mastdiv { width: 990000px; }
+
